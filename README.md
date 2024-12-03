@@ -38,7 +38,7 @@ This is a simple React shopping cart application.
    npm start
    ```
 
-2. Demo live - Netlify Link
+2. Demo live - [Chick here to go live](https://harish-react-shopping-cart.netlify.app/)
 
 ## Project Structure
 
@@ -53,4 +53,4 @@ This is a simple React shopping cart application.
   - `App.jsx` - Main application component
   - `index.js` - Entry point of the application
   - `index.css` - Global styles
-# react-shopping-cart
+
